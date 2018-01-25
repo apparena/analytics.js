@@ -17,8 +17,8 @@
   "main": "analytics.js",
   "scripts": {
     "build": "npm run browserify && npm run uglify",
-    "browserify": "node_modules/.bin/browserify --entry lib/index.js --standalone analytics --outfile analytics.js",
-    "uglify": "node_modules/.bin/uglifyjs analytics.js --output analytics.min.js",
+    "browserify": "node_modules/.bin/browserify --entry lib/index.js --standalone analytics --outfile sdk.full.js",
+    "uglify": "node_modules/.bin/uglifyjs sdk.full.js --output sdk.js",
     "clean": "make clean",
     "test": "make test"
   },

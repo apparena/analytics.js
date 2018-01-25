@@ -1,5 +1,3 @@
 node_modules/
-test/server/pid.txt
-components
-build.js
-/client-sdk/
+/sdk.full.js
+/sdk.js
