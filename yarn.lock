@@ -4,7 +4,7 @@
 
 "@apparena/analytics.js-integration-apparena@git+https://github.com/apparena/analytics.js-integration-apparena.git":
   version "3.6.0"
-  resolved "git+https://github.com/apparena/analytics.js-integration-apparena.git#666af38cdfe99da7c4b61da37d5aaebbb949be8d"
+  resolved "git+https://github.com/apparena/analytics.js-integration-apparena.git#820acfa07bf154b7fa845c82bc609434edaa561e"
   dependencies:
     "@ndhoule/extend" "^2.0.0"
     "@ndhoule/keys" "^2.0.0"
